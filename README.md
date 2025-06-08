@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning advanced Flutter animations and experimenting with backend integrations using Firebase and Node.js.
 - 💞️ I’m open to collaborating on exciting mobile app projects, especially those solving real-world problems.
 - 📫 How to reach me:  
-  - 📧 dheerajasjpr@gmail.com  
+  - 📧 yadavdheerajgama@gmail.com  
   - 🔗 [LinkedIn](https://www.linkedin.com)  
   - 🧑‍💻 [Portfolio Website](portfolio-link.com)
 
